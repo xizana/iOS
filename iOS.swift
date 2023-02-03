@@ -92,7 +92,7 @@ print(result)
 
 
 func zeros(N: Int) -> Int {
- 	var number = N
+  var number = N
   var result = 0
     while number > 0 {
       number = number / 5
